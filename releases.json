@@ -1,0 +1,14 @@
+[
+  {
+    "id": "device-configurator",
+    "name": "Device Configurator",
+    "about": "https://github.com/pozyxLabs/device-configurator",
+    "versions": [
+      {
+        "version": "1.0.0",
+        "download": "https://www.pozyx.io/documentation/device-configurator",
+        "changelog": "https://www.pozyx.io/documentation/device-configurator"
+      }
+    ]
+  }
+]
