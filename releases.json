@@ -8,6 +8,11 @@
         "version": "1.0.0",
         "download": "https://www.pozyx.io/documentation/device-configurator",
         "changelog": "https://www.pozyx.io/documentation/device-configurator"
+      },
+      {
+        "version": "1.1.0",
+        "download": "https://www.pozyx.io/documentation/device-configurator",
+        "changelog": "https://www.pozyx.io/documentation/device-configurator"
       }
     ]
   }
