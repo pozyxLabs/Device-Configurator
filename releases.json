@@ -18,6 +18,16 @@
         "version": "1.2.0",
         "download": "https://www.pozyx.io/documentation/device-configurator",
         "changelog": "https://www.pozyx.io/documentation/device-configurator"
+      },
+      {
+        "version": "1.3.0",
+        "download": "https://www.pozyx.io/documentation/device-configurator",
+        "changelog": "https://www.pozyx.io/documentation/device-configurator"
+      },
+      {
+        "version": "1.3.1",
+        "download": "https://www.pozyx.io/documentation/device-configurator",
+        "changelog": "https://www.pozyx.io/documentation/device-configurator"
       }
     ]
   }
